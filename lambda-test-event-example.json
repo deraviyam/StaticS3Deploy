@@ -6,7 +6,7 @@
       "actionConfiguration": {
         "configuration": {
           "FunctionName": "MyLambdaFunctionForAWSCodePipeline",
-          "UserParameters": "{ \"artifact\":\"MyApp\", \"s3StaticSiteBucket\":\"fuzzy-telegram/beta\", \"s3StaticSiteBucketRegion\":\"us-east-1\", \"sourceDirectory\": \"public/assets\"}"
+          "UserParameters": "{ \"artifact\":\"MyApp\", \"s3StaticSiteBucket\":\"dailyquotes-static/beta\", \"s3StaticSiteBucketRegion\":\"ap-southeast-1\", \"sourceDirectory\": \"public/assets\"}"
         }
       },
       "inputArtifacts": [
